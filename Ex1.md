@@ -33,5 +33,6 @@ int main(){
 
 
 ## Result:
+Thus the Program to read two sequence of character value from the keyboard and display the value on the monitor has been executed successfully
 
 
